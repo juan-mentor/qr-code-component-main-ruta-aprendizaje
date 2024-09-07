@@ -25,7 +25,7 @@ Se trata de una card, que en su interior lleva un código QR y un encabezado h1 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/juan-mentor/qr-code-component-main-ruta-aprendizaje.git)
 - Live Site URL: [Add live site URL here](https://juan-mentor.github.io/qr-code-component-main-ruta-aprendizaje/)
 
 ## My process
