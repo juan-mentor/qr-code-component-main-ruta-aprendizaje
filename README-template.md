@@ -26,7 +26,7 @@ Se trata de una card, que en su interior lleva un código QR y un encabezado h1 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://juan-mentor.github.io/qr-code-component-main-ruta-aprendizaje/)
 
 ## My process
  Lo primero que hago una vez descargados los archivos, es dibujar mi proyecto en una hoja de papel. En el pongo que contenedores
