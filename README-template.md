@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Se trata de una card, que en su interior lleva un código QR y un encabezado h1 con un párrafo.
 
 ### Screenshot
-![imagen del componente QR](images/component-qr-mobile.png)
+![imagen del componente QR](../images/component-qr-mobile.png)
 
 ### Links
 
